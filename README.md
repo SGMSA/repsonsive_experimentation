@@ -1,6 +1,8 @@
 #Responsive website experimentation
 
 
+##Smashing Magazine Website
+
 Below is an example of the smashing magazine website 
 
 Below is an example of [Smashing magazines website](https://www.smashingmagazine.com/), the website responds in the following way 
